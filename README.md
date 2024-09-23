@@ -1,6 +1,6 @@
 - 👋 Hi, I’m Abdessamad Zenasni
-- 👀 I’m interested in Web development
-- 🌱 I’m currently learning PHP, Laravel, MySQL
+- 👀 I’m interested in Full Stack Web development
+- 🌱 I’m currently learning PHP, Laravel, Javascript, VueJS and more
 - 💞️ I’m looking to collaborate on web projects
 - 📫 How to reach me : LinkedIn: https://www.linkedin.com/in/abdessamad-z-b86478186/
 
